@@ -47,3 +47,16 @@ if(!dead) {
         }
     }
 }
+var sduglk = prompt("ready for wave 3??????");
+switch(sduglk){
+    case'yes':
+        confirm("420 mlg Knights Fo' DayZZZZ");
+        break;
+    case'no':
+        confirm("Ehhhhh... scrub");
+        break;
+       
+    default:
+        confirm("Are you ok?"); 
+        break;
+}
